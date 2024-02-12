@@ -1,4 +1,3 @@
-AsmrProg-YT/README.md
 ✨ Who am I?
 My name is Diogo and im web developer learning, Im trying to be better and become successful in what I like
 
